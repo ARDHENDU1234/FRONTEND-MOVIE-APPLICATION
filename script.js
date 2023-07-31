@@ -54,4 +54,4 @@ function returnMovies(url){
        returnMovies(SEARCHAPI  + searchItem);
        search.value = "";
        }
-   });
+   }); 
